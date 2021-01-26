@@ -1,4 +1,4 @@
-# This is a code I got from Google's Shell Style Guide (https://google.github.io/styleguide/shellguide.html) for parsing user inputed arguments/flags in a bash script.
+# This is a code I got from Google's Shell Style Guide (https://google.github.io/styleguide/shellguide.html) for parsing user inputed arguments/flags in a bash program/script
 
 a_flag=''
 b_flag=''
